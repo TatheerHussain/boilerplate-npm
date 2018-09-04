@@ -1,5 +1,5 @@
 {
-	"author": "Tatheer Hussain Mir",
+	"author": "Tatheer Hussain",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
